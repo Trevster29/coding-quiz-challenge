@@ -286,7 +286,7 @@ function endOfGame() {
 
   let heading = document.createElement("p");
   heading.setAttribute("id", "main-heading");
-  heading.textContent = "GAME OVER - I hope you have enjoyed this";
+  heading.textContent = "Great job, love cats always whenevr you can they're precious";
 
   // creates elements with the instructions for the game
   let instructions = document.createElement("p");
